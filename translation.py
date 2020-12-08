@@ -1,8 +1,8 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+Hi {}, i'm URL Uploader bot!
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>Please send me any direct download URL Link, i can upload to telegram as File/Video.</b>
 
 /help for more details.."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -33,8 +33,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hi, i am URL Uploader bot..
-    
+    HELP_USER = """How to use me? Follow these steps :    
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
@@ -42,6 +41,10 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
+   
+My Features:
+1. All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+2. Upload as file from any HTTP/HTTPS link
    
 --------
 Send /me to know current plan details
