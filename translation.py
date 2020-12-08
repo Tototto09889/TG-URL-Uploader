@@ -43,8 +43,8 @@ Expires on: 31/12/2020"""
    DFile  - Give File without Screenshots
    
 My Features:
-1. All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-2. Upload as file from any HTTP/HTTPS link
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+👉 Upload as file from any HTTP/HTTPS link
    
 --------
 Send /me to know current plan details
