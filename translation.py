@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hello,
-Hi Jancok, i'm Bakekobot!
+    START_TEXT = """Hai Jancok,
+i'm Bakekobot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video.</b>
 
