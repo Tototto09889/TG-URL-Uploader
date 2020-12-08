@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-Hi {}, i'm Bakekobot!
+Hi Jancok, i'm Bakekobot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video.</b>
 
@@ -33,7 +33,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """How to use me? Follow these steps :    
+    HELP_USER = """here's how to use me :    
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
